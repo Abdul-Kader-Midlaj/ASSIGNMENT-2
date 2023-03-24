@@ -1,0 +1,39 @@
+.myprofile{
+    display:flex;
+    margin: 35px 20px;
+    padding: 10px 0px;
+}
+img{
+    border-radius: 50%;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+}
+.image{
+    
+    margin: 0 90px 0 0px;
+}
+.profile h1{
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+}
+
+table{
+    width: 850px;
+    border-collapse: collapse;
+}
+table th, tr, td{
+    border: 3px solid black;
+}
+th, td{
+    text-align: left;
+    padding: 10px 5px;
+}
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: silver;
+    
+    
+}
